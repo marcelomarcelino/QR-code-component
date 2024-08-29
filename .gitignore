@@ -20,6 +20,6 @@ design/
 QR-code-component/
 
 # Arquivos para ignorar
-preview.jpg
-READEME-TEMPLATE.md
+preview.templete.md
+README-template.md
 style-guide.md
