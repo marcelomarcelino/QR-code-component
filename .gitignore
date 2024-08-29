@@ -14,3 +14,12 @@
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
 .prettierignore
+
+# Pastas para ignorar
+design/
+QR-code-component/
+
+# Arquivos para ignorar
+preview.jpg
+READEME-TEMPLATE.md
+style-guide.md
