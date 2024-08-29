@@ -1,19 +1,13 @@
-QR Code Component
+# QR Code Component
 
-Essa é a solução para o desafo [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) no Frontend Mentor. Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
+Essa é a solução para o desafio [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) no Frontend Mentor. Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
 
-Visão Geral
-O Desafio
-Os usuários devem ser capazes de:
+## Links
 
-Ver o layout ideal dependendo do tamanho da tela do dispositivo
-Ver os estados de foco para elementos interativos
-Screenshot
+- **URL da Solução:** [Repositório no GitHub](https://github.com/marcelomarcelino/QR-code-component)
+- **URL do Site:** [Acesse o projeto](https://qr-code-component-marcelo-marcelinos-projects.vercel.app/)
 
-Links
-URL da Solução: [Repositório no GitHub](https://github.com/marcelomarcelino/QR-code-component)
-URL do Site: [Demonstração ao Vivo](https://qr-code-component-marcelo-marcelinos-projects.vercel.app/)
+## Autor
 
-Autor
-Frontend Mentor - @marcelomarcelino
-GitHub - @marcelomarcelino
+- **Frontend Mentor:** [@marcelomarcelino](https://www.frontendmentor.io/profile/marcelomarcelino)
+- **GitHub:** [@marcelomarcelino](https://github.com/marcelomarcelino)
